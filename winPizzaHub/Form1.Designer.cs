@@ -101,7 +101,7 @@ namespace winPizzaHub
             // 
             this.label3.AutoSize = true;
             this.label3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label3.Location = new System.Drawing.Point(381, 25);
+            this.label3.Location = new System.Drawing.Point(483, 25);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(214, 22);
             this.label3.TabIndex = 1;
