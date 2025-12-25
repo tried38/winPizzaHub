@@ -80,7 +80,7 @@ namespace winPizzaHub
             this.groupBox1.Location = new System.Drawing.Point(50, 220);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 3, 3, 30);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(683, 200);
+            this.groupBox1.Size = new System.Drawing.Size(666, 200);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Пепперони";
@@ -92,7 +92,7 @@ namespace winPizzaHub
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.Location = new System.Drawing.Point(182, 71);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(478, 117);
+            this.label4.Size = new System.Drawing.Size(461, 117);
             this.label4.TabIndex = 2;
             this.label4.Text = "Острая разновидность салями итало-американского происхождения. Обычно делается из" +
     " свинины.";
@@ -101,7 +101,7 @@ namespace winPizzaHub
             // 
             this.label3.AutoSize = true;
             this.label3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label3.Location = new System.Drawing.Point(466, 25);
+            this.label3.Location = new System.Drawing.Point(449, 25);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(214, 22);
             this.label3.TabIndex = 1;
@@ -128,10 +128,10 @@ namespace winPizzaHub
             this.groupBox2.Location = new System.Drawing.Point(50, 439);
             this.groupBox2.Margin = new System.Windows.Forms.Padding(3, 3, 3, 30);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(683, 200);
+            this.groupBox2.Size = new System.Drawing.Size(666, 327);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "НАЗВАНИЕ ПИЦЦЫ";
+            this.groupBox2.Text = "Пицца силачей или пицца Папайя (Braccio di Ferro)";
             // 
             // label5
             // 
@@ -140,23 +140,23 @@ namespace winPizzaHub
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.Location = new System.Drawing.Point(182, 71);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(478, 117);
+            this.label5.Size = new System.Drawing.Size(461, 244);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Текст. Описание пиццы соглано Вашему Варианту. Два, три предложения";
+            this.label5.Text = resources.GetString("label5.Text");
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label6.Location = new System.Drawing.Point(546, 25);
+            this.label6.Location = new System.Drawing.Point(553, 25);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(134, 22);
+            this.label6.Size = new System.Drawing.Size(110, 22);
             this.label6.TabIndex = 1;
-            this.label6.Text = "ФИО студента";
+            this.label6.Text = "МалетинАД";
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::winPizzaHub.Properties.Resources.template;
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(6, 28);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(160, 160);
