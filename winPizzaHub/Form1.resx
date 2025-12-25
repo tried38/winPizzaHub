@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label5.Text" xml:space="preserve">
+    <value>"Пицца Силачей" и "Пицца Папайя" — это, скорее всего, названия конкретных позиций в меню пиццерий, которые отражают их состав: "Силачей" — это обычно мясная пицца с несколькими видами колбас/мяса (пепперони, ветчина, свинина), а "Папайя" (или Гавайская) — это пицца с ананасами, ветчиной или курицей, сочетающая сладкое и соленое. Выбор между ними зависит от ваших предпочтений: если любите много мяса — "Силачей", если предпочитаете тропические сладко-соленые вкусы — "Папайя".</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
