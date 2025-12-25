@@ -1,4 +1,4 @@
-﻿# Малетин АД
+﻿# Малетин Алексей Дмитриевич
 Это я, [tried38](https://github.com/tried38 "Ссылка на мою страницу GitHub")
 ## Группа ИС-23Б
 Номер в группе 18
@@ -10,3 +10,6 @@
 3. ~~Добавление иной формы~~
 
 ![Изображение](https://github.com/tried38/winPizzaHub/blob/master/data/pizza18.jpg "Фото пиццы")
+
+
+made by tried38
