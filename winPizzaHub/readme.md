@@ -11,5 +11,4 @@
 
 ![Изображение](https://github.com/tried38/winPizzaHub/blob/master/data/pizza18.jpg "Фото пиццы")
 
-
 made by tried38
